@@ -12,5 +12,6 @@ git clone ****
 cd ****
 git flow init
 git flow feature start SMART-XXXX_aaaa_yonsihik
+git flow feature publish SMART-XXXX_aaaa_yonsihik
 </pre>
 
